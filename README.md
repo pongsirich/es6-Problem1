@@ -6,7 +6,7 @@
 
 ![Recordit GIF](http://g.recordit.co/xt5e2Y1Bke.gif)
 
-## sample of app.js
+## Sample of app.js
 
 ```javascript
 const btnDontPush = document.getElementById('btnDontPush')
